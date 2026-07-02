@@ -92,7 +92,7 @@ Groumeet is a great alternative to Omegle-style chat sites, random video chat ap
 ## 📸 Preview
 
 <p align="center">
-<img src="https://www.groumeet.com/og-image.png" width="900" alt="Groumeet - Free live chat rooms and cam to cam video chat preview">
+<img src="https://www.groumeet.com/og-image.jpg" width="900" alt="Groumeet - Free live chat rooms and cam to cam video chat preview">
 </p>
 
 ---

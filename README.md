@@ -5,7 +5,7 @@
 ### Free Live Chat Rooms, Random Video Chat & Cam-to-Cam Messaging
 
 <a href="https://www.groumeet.com" target="_blank">
-  <img src="https://www.groumeet.com/logo192.png" alt="Groumeet Logo" width="140"/>
+  <img src="https://www.groumeet.com/logo-ico.webp" alt="Groumeet Logo" width="140"/>
 </a>
 
 <br><br>
